@@ -1,25 +1,18 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I love working with data. 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BTech in Industrial Engineering
+    institution: Manipal Insitute of Technology 
+    year: 2022
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data analytics
+- Stock investing and trading
+- Reading books, watching movies and listening to music 
 organizations:
-- name: Stanford University
+- name: MIT
   url: https://www.stanford.edu/
 role: Professor of Artificial Intelligence
 social:
@@ -42,10 +35,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Anukarsh Mukherjee
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 20 year old university junior with an interest in analytics, business strategy and machine learning and their dynamic intersection. I enjoy answering questions using data and creating visualizations to break down key aspects of whatever it is that interests me to derive actionable insights.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
