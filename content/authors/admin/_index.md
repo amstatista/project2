@@ -30,5 +30,7 @@ title: Anukarsh Mukherjee
 
 I am a 20 year old university junior with an interest in analytics, business strategy and machine learning and their dynamic intersection. I enjoy answering questions using data and creating visualizations to break down key aspects of whatever it is that interests me to derive actionable insights.
 
+I'm always looking to learn more about how businesses, people and the environment around us function and their many intricacies. The ever evolving use of the methods and technology used in data science is something I love exploring. I'm also an avid football/soccer fan and enjoy watching the sport in my free time. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
