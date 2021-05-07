@@ -1,11 +1,11 @@
 ---
-bio: I love working with data. 
+bio: I like working with data. 
 education:
   courses:
   - course: BTech in Industrial Engineering
     institution: Manipal Insitute of Technology 
     year: 2022
-email: ""
+email: 'anukarsh.mukherjee.7@gmail.com'
 highlight_name: false
 interests:
 - Data analytics and machine learning
@@ -14,16 +14,16 @@ interests:
 - Long distance cycling 
 organizations:
 - name: MIT
-role: Data Science
+role: Personal blog
 social:
 - icon: envelope
   icon_pack: fas
-  link: anukarsh.mukherjee.7@gmail.com
+  link: mailto:anukarsh.mukherjee.7@gmail.com
 - display:
     header: true
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/anukarshm7
+  link: https://www.linkedin.com/in/anukarshm7
 superuser: true
 title: Anukarsh Mukherjee
 ---
